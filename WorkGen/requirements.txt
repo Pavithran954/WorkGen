@@ -1,0 +1,11 @@
+streamlit
+pandas
+matplotlib==3.7.1
+plotly
+plotly.express
+autoviz
+nltk
+sumy
+summarizers
+tokenizers
+punkt
